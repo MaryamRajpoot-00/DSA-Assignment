@@ -62,10 +62,17 @@ A *Queue* follows the *FIFO (First-In, First-Out)* principle, where elements are
 ---
 
 Submitted By
+
 Name: Bibi Maryam
+
 Father's Name: Aurangzeb Khan
+
 Section: A
+
 Program: BSCS (Evening)
+
 🔗 LinkedIn: Maryam Rajput
+
 Submitted To
+
 Instructor: Mr. Tajmir Khan
